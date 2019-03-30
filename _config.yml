@@ -1,11 +1,11 @@
 # Site settings
 author: Andrew Bay
-title: 
+title: A New Adventure
 header-img: img/home-bg.png
 email: daddnbay@yahoo.com
 copyright_name: Andrew Bay
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Frequencyz
